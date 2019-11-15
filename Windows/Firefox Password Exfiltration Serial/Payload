@@ -24,11 +24,15 @@ Press: 179
 Press: 179
 Press: 179
 Press: 179
+Rem: Confirm target site
 Press: 32
 Press: 179
 Press: 179
+Rem: Copy Username
 Press: 176
 Press: 179
 Press: 179
+Rem: Copy Password
 Press: 176
+Press: 128 + 119
 Press: 128 + 119
