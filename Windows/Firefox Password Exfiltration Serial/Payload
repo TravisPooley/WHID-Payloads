@@ -13,7 +13,7 @@ PrintLine: firefox
 CustomDelay: 2000
 
 Rem: Navigate to login settings page
-Press: 128 + 76
+Press:128+116
 CustomDelay: 250
 PrintLine: about:logins
 
